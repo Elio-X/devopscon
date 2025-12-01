@@ -25,4 +25,3 @@ testing pushing
  >   <user username="admin" password="admin" roles="manager-gui,admin-gui,manager-script" />
  > </tomcat-users>
  > ```
- 
